@@ -1,4 +1,4 @@
-### Nice to meet see you here 👋 I am Jian Hui.
+### Nice to meet you here 👋 I am Jian Hui.
 
 <!-- **lee-jian-hui/lee-jian-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
