@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 
 <h2>Connect with me:</h2>
-https://www.linkedin.com/in/lee-jian-hui-1708281ba/
 
-<h4>Skills:</h4>
+[LinkedIn<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
+ -->
+<h2>Skills:</h2>
 <ul>
  <li>Fullstack Web Development (HTML, CSS, JS, TS, angular.js, django)</li>
  <li>Mobile development (Android studio using Java)</li>
@@ -39,6 +41,7 @@ https://www.linkedin.com/in/lee-jian-hui-1708281ba/
  <li>QuickPark</li>
  <li>Ureview</li>
 </ul>
+[linkedin]: https://www.linkedin.com/in/lee-jian-hui-1708281ba/
 
 
 
