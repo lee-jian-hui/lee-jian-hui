@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h2>Connect with me:</h2>
 
-[LinkedIn]([linkedin])
+[LinkedIn](https://www.linkedin.com/in/lee-jian-hui-1708281ba/)
 <!-- [LinkedIn<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin]) -->
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
  -->
