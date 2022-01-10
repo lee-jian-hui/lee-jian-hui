@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2>A bit about me ...</h2>
 
 - 📚 I am currently in my <strong>2nd Year</strong> pursuing a  Computer Science Degree at Monash University.
-- 👨‍💻 I Have proficiency in Web Dev, mobile dev and Algorithms.
-- 🌱 Currently learning ML/AI, Blockchain, decentralized Apps as well as the applying financial models to IT projects. 
+- 👨‍💻 I Have proficiency in Web Dev, Mobile Dev, Algorithms and Data Structures.
+- 🌱 Currently learning Databases, ML/AI, Blockchain, decentralized Apps as well as the applying financial models to IT projects. 
 - 🌱Looking to learn VR and AR technologies.
 
 
