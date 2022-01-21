@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h2>Skills:</h2>
 <ul>
  <li>Fullstack Web Development (HTML, CSS, JS, TS, angular.js, django)</li>
- <li>Mobile development (Android studio using Java)</li>
+ <li>Mobile development (Android studio using Java), Flutter</li>
  <li>Version Control (Git)</li>
  <li>Programming Languages (Python, Java, JS, TS, Haskell)</li>
  <li>Algorithms and Data Structures (python syntax)</li>
