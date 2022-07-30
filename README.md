@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
 <h2>A bit about me ...</h2>
 
-- 📚 I am currently in my <strong>3rd and final Year</strong> pursuing a  Bachelor's in Computer Science at Monash University.
+- 📚 I am currently in my <strong>3rd and final Year</strong> student pursuing a  Bachelor's in Computer Science at Monash University.
 - 👨‍💻 I have adequate proficiency in Web Dev, Mobile Dev, Algorithms and Data Structures.
 - 🌱 Currently learning Databases, ML/AI, Blockchain, decentralized Apps and web3
 - 🌱Looking to learn VR and AR technologies.
