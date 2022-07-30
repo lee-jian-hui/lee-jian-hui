@@ -1,5 +1,11 @@
 ### Nice to meet you here 👋 I am Jian Hui.
 
+<h2>Connect with me:</h2>
+
+[LinkedIn](https://www.linkedin.com/in/lee-jian-hui-1708281ba/)
+<!-- [LinkedIn<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin]) -->
+<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
+ -->
 <!-- **lee-jian-hui/lee-jian-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,13 +27,6 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Databases, ML/AI, Blockchain, decentralized Apps and web3
 - 🌱Looking to learn VR and AR technologies.
 
-
-<h2>Connect with me:</h2>
-
-[LinkedIn](https://www.linkedin.com/in/lee-jian-hui-1708281ba/)
-<!-- [LinkedIn<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin]) -->
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
- -->
 <h2>Skills:</h2>
 <ul>
  <li>Fullstack Web Development (HTML, CSS, JS, TS, angular.js, django)</li>
