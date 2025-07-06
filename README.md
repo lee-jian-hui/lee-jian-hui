@@ -1,49 +1,26 @@
-### Nice to meet you here 👋 I am Jian Hui.
+# 👋 Hi, I'm Lee Jian Hui
 
-<h2>Connect with me:</h2>
+🚀 Full-stack Software Developer with 2+ years of experience building enterprise-grade RAG/LLM platforms, CI/CD pipelines, and automation tools at Dell Technologies.  
 
-[LinkedIn](https://www.linkedin.com/in/lee-jian-hui-1708281ba/)
-<!-- [LinkedIn<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin]) -->
-<!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([linkedin])
- -->
-<!-- **lee-jian-hui/lee-jian-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Passionate about open-source, real-world AI applications, and developer productivity tooling. Regularly contribute to communities like PrivateGPT and speak at national hackathons.
 
-Here are some ideas to get you started:
+💡 Recent work includes:
+- Scalable RAG-LLM APIs with Hugging Face + LangChain + FastAPI
+- Secure ServiceNow integrations and chatbot platforms using Rasa
+- Data pipeline observability, CI/CD testing infra, and K8s deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on QuickPark, a brainchild born out of a hackathon idea.
-- 🤔 I’m looking for help with web dev and mobile dev
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
- 
-<h2>A bit about me ...</h2>
+📈 Hackathon Finalist | Invited Tech Speaker | Monash High Achiever Scholar
 
-- 📚 I am currently in my <strong>3rd and final Year</strong> student pursuing a  Bachelor's in Computer Science at Monash University.
-- 👨‍💻 I have adequate proficiency in Web Dev, Mobile Dev, Algorithms and Data Structures.
-- 🌱 Currently learning Databases, ML/AI, Blockchain, decentralized Apps and web3
-- 🌱Looking to learn VR and AR technologies.
+---
 
-<h2>Skills:</h2>
-<ul>
- <li>Fullstack Web Development (HTML, CSS, JS, TS, angular.js, django)</li>
- <li>Mobile development (Android studio using Java), Flutter</li>
- <li>Version Control (Git)</li>
- <li>Programming Languages (Python, Java, JS, TS, Haskell)</li>
- <li>Algorithms and Data Structures (python syntax)</li>
-</ul>
+## 🛠 Tech Stack
+**Languages**: Python, JavaScript, TypeScript, Java, C++, SQL  
+**Frameworks**: FastAPI, React, Rasa, LangChain, TensorFlow, Keras  
+**DevOps**: Docker, Kubernetes, GitLab CI/CD, Google Cloud  
+**Databases**: PostgreSQL, MSSQL, Redis, Firebase  
+**Tools**: ServiceNow API, Splunk, OAuth 2.0, Power BI, Airflow, Postman
 
-<h2>Currently Involved Projects:</h2>
-<ul>
- <li>QuickPark</li>
- <li>Ureview</li>
-</ul>
+---
 
-[linkedin]: https://www.linkedin.com/in/lee-jian-hui-1708281ba/
-
-
-
-
+🔗 Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/lee-jian-hui-1708281ba/) | [Resume](https://github.com/lee-jian-hui)  
