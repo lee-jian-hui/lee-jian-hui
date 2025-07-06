@@ -9,7 +9,7 @@
 - Secure ServiceNow integrations and chatbot platforms using Rasa
 - Data pipeline observability, CI/CD testing infra, and K8s deployments
 
-📈 Hackathon Finalist | Invited Tech Speaker | Monash High Achiever Scholar
+📈 Hackathon Finalist | Invited Tech Speaker
 
 ---
 
