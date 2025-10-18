@@ -2,10 +2,8 @@
 🔗 [Visit my portfolio](https://your-website.com)
 
 🚀 I'm a full-stack LLM-focused developer with 2+ years of experience building production LLM applications and intelligent systems that actually get used — from AI-powered automation platforms and conversational agents to machine learning pipelines and analytics tools at Dell Technologies.
-
 🧠 Passionate about working on innovative ideas, early-stage projects, open-source tools, and startups. Looking to join hands-on efforts that blend AI with real-world utility.
-
-💬 I’m active in developer communities (like contributing to PrivateGPT) and was once invited to speak at a national Google Apps Script hackathon with 1,000+ participants.
+💬 You'll find me at startup talks, conferences, hackathons, and developer communities — I've contributed to projects like PrivateGPT and was invited to speak at a national Google Apps Script hackathon with 1,000+ participants.
 
 ---
 
