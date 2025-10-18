@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Lee Jian Hui
+# 👋 Hi, I'm Kyler Lee
+[Learn more about me →](https://jhcreates.vercel.app)
 
-🚀 I'm a full-stack developer with 2+ years of experience building things that *actually get used* — from internal AI tools and automation platforms to production-grade chatbots and analytics pipelines at Dell Technologies.
+🚀 I'm a full-stack LLM-focused developer with 2+ years of experience building production LLM applications and intelligent systems that actually get used — from AI-powered automation platforms and conversational agents to machine learning pipelines and analytics tools at Dell Technologies.
 
 🧠 Passionate about working on innovative ideas, early-stage projects, open-source tools, and startups. Looking to join hands-on efforts that blend AI with real-world utility.
 
