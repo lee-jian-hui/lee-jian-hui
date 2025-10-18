@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kyler Lee
-[Learn more about me →](https://jhcreates.vercel.app)
+🔗 [Visit my portfolio](https://your-website.com)
 
 🚀 I'm a full-stack LLM-focused developer with 2+ years of experience building production LLM applications and intelligent systems that actually get used — from AI-powered automation platforms and conversational agents to machine learning pipelines and analytics tools at Dell Technologies.
 
